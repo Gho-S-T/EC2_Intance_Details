@@ -1,3 +1,3 @@
-No.,Name,InstanceID,PubicIP,Status,AMI ID,Availability Zone,OS
-1,Test1_Linux,i-0084e2430633e43ef,18.207.122.177,running,ami-0c9978668f8d55984,us-east-1a,Red Hat Enterprise Linux
-2,Test1_Windows,i-01883507ce47ecb94,3.224.114.188,running,ami-0c2b0d3fb02824d92,us-east-1c,Windows
+No.,Account ID,Name,InstanceID,Private IP,Status,AMI ID,Availability Zone,OS
+1,907115051804,Test1_Linux,i-0084e2430633e43ef,172.31.27.23,running,ami-0c9978668f8d55984,us-east-1a,Red Hat Enterprise Linux
+2,907115051804,Test1_Windows,i-01883507ce47ecb94,172.31.10.54,running,ami-0c2b0d3fb02824d92,us-east-1c,Windows
